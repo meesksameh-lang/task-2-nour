@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>What is the Internet?</title>
+</head>
+<body>
+<h1>What is the Internet?</h1>
+<h3>Noor - 2503639</h3>
+<p>
+The Internet is a global network that connects millions of computers
+around the world. It helps us to communicate, learn, and share information.
+</p>
+<h2>Applications of the Internet</h2>
+<img src="internet.jpg" width="500">
+<ul>
+<li>Communication</li>
+<li>Education</li>
+<li>Entertainment</li>
+<li>Online Shopping</li>
+<li>Social Media</li>
+</ul>
+</body>
+</html>
